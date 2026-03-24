@@ -1,4 +1,4 @@
-ile_object = open("hello.txt","r")
+file_object = open("hello.txt","r")
 print(file_object.read())
 
 
